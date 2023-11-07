@@ -1,9 +1,10 @@
 package app;
 
 
+
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("My SSH app.");
+        System.out.println("SSH app for Users.");
     }
 }
